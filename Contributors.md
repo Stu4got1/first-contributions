@@ -6420,6 +6420,7 @@ Conor Shields (https://github.com/cshields236)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
+- [Stuart Bolen]
 - [Danny Wagstaff](https://github.com/danny1000008)
 - [Agham Arta Bima](https://github.com/aghambla)
 - [Jonathan Burk](https://github.com/JMB2K)
